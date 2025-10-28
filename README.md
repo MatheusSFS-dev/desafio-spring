@@ -12,7 +12,7 @@ API Rest para gerenciamento de boletos bancários voltados para microempresas.
 
 ### Configuração do Projeto
 
-Java 8, Spring Boot, Maven para gerenciamento de dependências, JUnit para testes unitários e H2 Database para banco de dados em memória
+Java 8, Spring Boot, Maven para gerenciamento de dependências,Lombok, JUnit para testes unitários e postgreSQL e para banco de dados em memória
 
 ### Comandos
 
